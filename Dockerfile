@@ -1,1 +1,1 @@
-FROM quay.io/metallb/controller:v0.13.12
+FROM quay.io/frrouting/frr:8.5.2
