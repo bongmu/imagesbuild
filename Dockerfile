@@ -1,1 +1,1 @@
-FROM quay.io/metallb/speaker:v0.13.12
+FROM quay.io/jetstack/cert-manager-controller:v1.11.0
