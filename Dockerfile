@@ -1,1 +1,1 @@
-FROM quay.io/frrouting/frr:8.5.2
+FROM quay.io/metallb/speaker:v0.13.12
