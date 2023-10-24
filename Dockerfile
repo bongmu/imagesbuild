@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM quay.io/metallb/controller:v0.13.12
