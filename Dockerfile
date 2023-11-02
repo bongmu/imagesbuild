@@ -1,1 +1,1 @@
-FROM quay.io/kiwigrid/k8s-sidecar:1.19.2
+FROM quay.io/prometheus-operator/prometheus-operator:v0.53.1
