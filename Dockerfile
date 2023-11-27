@@ -1,1 +1,1 @@
-FROM quay.io/tigera/operator:v1.30.7
+FROM docker.elastic.co/beats/filebeat:8.7.1
