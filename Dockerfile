@@ -1,1 +1,1 @@
-FROM docker.elastic.co/beats/filebeat:8.7.1
+FROM us-central1-docker.pkg.dev/genuine-flight-317411/devel/kubewatch:v2.6
