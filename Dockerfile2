@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/prometheus:v2.32.1
+FROM us-central1-docker.pkg.dev/genuine-flight-317411/devel
